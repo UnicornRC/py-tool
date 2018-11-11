@@ -1,0 +1,1 @@
+@py.exe G:\eclipse_space\quiz\src\quiz\__init__.py
